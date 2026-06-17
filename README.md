@@ -1,7 +1,7 @@
 # Usage
 
 ```
-$ curl -fsSL https://raw.githubusercontent.com/hayami/ansi-colors/HEAD/ansi-colors.h | sh
+$ curl -fsSL https://raw.githubusercontent.com/hayami/ansi-colors/HEAD/ansi-colors.sh | sh
 ```
 
 # Screenshots
